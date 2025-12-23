@@ -1,4 +1,4 @@
-# guide-content-parser
+# guide-content-renderer
 
 This template should help get you started developing with Vue 3 in Vite.
 
